@@ -25,7 +25,7 @@ Several functions declared in the Generic_Neural_Network class are depicted belo
     
     backward(self, X, y, o): Calculate deltas and adjust weights.
     
-    train(self, X, y): Define the flow of network.
+    train(self, X, y): Define the flow of the ANN network.
     
 
 For more info, check the work document in the same directory for details on function declaration and data processing.
