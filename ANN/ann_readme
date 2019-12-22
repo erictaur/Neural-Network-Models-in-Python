@@ -1,1 +1,21 @@
 locate package and import to desired file
+
+Architecture of this package:
+This back-propagation (ANN) implementation is designed to handle two inputs and produce a single output.
+
+
+The width (number of nodes) of the single hidden layer can be configured accordingly.
+
+The example demo of this ANN is to predict the function output of:
+(5sinx) + 2y^2 with a range from 1 to 10 for both inputs.
+
+
+Requried packages include: numpy, pandas, csv
+
+The normalization method of this specific implementation is to use the min-max method.
+
+
+Several functions declared in the Generic_Neural_Network class are depicted below:
+ 
+    forward(self, X): Take in X and progpagate through the network in a feed-forward fashion.
+    
