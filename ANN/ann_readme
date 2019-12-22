@@ -19,3 +19,13 @@ Several functions declared in the Generic_Neural_Network class are depicted belo
  
     forward(self, X): Take in X and progpagate through the network in a feed-forward fashion.
     
+    sigmoid(self, s): Calculate the sigmoid value of parameter s.
+    
+    sigmoidPrime(self, s): Calculate the derivative of the sigmoid function with parameter s.
+    
+    backward(self, X, y, o): Calculate deltas and adjust weights.
+    
+    train(self, X, y): Define the flow of network.
+    
+
+For more info, check the work document in the same directory for details on function declaration and data processing.
