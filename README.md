@@ -1,14 +1,14 @@
 # Neural Networks Models in Python
 Demonstration of several neural networks with the use of Python (Without Third-Party Libraries).
 
-ANN (Back propagation neural network)
+##ANN (Back propagation neural network)
 
-SOM (Self organizing map)
+##SOM (Self organizing map)
 
-LVQ (Learning vector quantization)
+##LVQ (Learning vector quantization)
 
-RBF (Radial Basis Functions)
+##RBF (Radial Basis Functions)
 
-ART (Adaptive resonance theory)
+##ART (Adaptive resonance theory)
 
-CPN (Counter propagation network)
+##CPN (Counter propagation network)
